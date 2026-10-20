@@ -63,7 +63,7 @@ Each step has a distinct role:
 
 - Python
 - LangChain
-- OpenAI API
+- Groq API
 - Tavily
 - Streamlit
 - BeautifulSoup
@@ -117,7 +117,7 @@ touch .env
 ```
 
 ```env
-OPENAI_API_KEY=your_openai_api_key
+GROQ_API_KEY=your_groq_api_key
 TAVILY_API_KEY=your_tavily_api_key
 ```
 
@@ -166,3 +166,4 @@ This project is licensed under the MIT License.
 ---
 
 Built to showcase how AI workflows can move from raw information to polished output with human-like reasoning and structured execution.
+link : https://multi-agent-research-system-ml9kzrc3r2qe8fnfzlqzda.streamlit.app/
